@@ -15,10 +15,10 @@
 | [Python 04](./Python04) | Decorators, generators, iterators |
 | [Python 05](./Python05) | Exception handling, file I/O, data pipeline |
 | [Python 06](./Python06) | Type annotations, functional programming |
-| [Python 07](./Python08) | Advanced Python — NumPy / Pandas / data processing |
+| [Python 07](./Python08) | Advanced Python — classes and factories |
 | [Python 08](./Python07) | Advanced Python — NumPy / Pandas / data processing |
-| [Python 09](./Python09) | Advanced Python — NumPy / Pandas / data processing |
-| [Python 10](./Python10) | Advanced Python — NumPy / Pandas / data processing |
+| [Python 09](./Python09) | Advanced Python — Pydantic |
+| [Python 10](./Python10) | Advanced Python — lambda / scope / decorators |
 
 ---
 
