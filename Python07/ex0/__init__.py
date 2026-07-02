@@ -1,2 +1,3 @@
-from . import create_creatures
-from create_creatures import Creature, CreatureFactory
+from .create_creatures import FlameFactory, AquaFactory, CreatureFactory
+
+__all__ = ["FlameFactory", "AquaFactory", "CreatureFactory"]
