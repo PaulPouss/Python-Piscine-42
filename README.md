@@ -8,14 +8,14 @@
 
 | Module | Topics |
 |--------|--------|
-| [Module 00](./module00) | Python basics, variables, conditions, loops |
-| [Module 01](./module01) | Data structures: lists, tuples, sets, dictionaries |
-| [Module 02](./module02) | String manipulation, slicing, formatting |
-| [Module 03](./module03) | Object-oriented programming |
-| [Module 04](./module04) | Decorators, generators, iterators |
-| [Module 05](./module05) | Exception handling, file I/O |
-| [Module 06](./module06) | Type annotations, functional programming |
-| [Module 07](./module07) | Advanced Python — NumPy / Pandas / data processing |
+| [Python 00](./module00) | Python basics, variables, conditions, loops |
+| [Python 01](./module01) | Data structures: lists, tuples, sets, dictionaries |
+| [Python 02](./module02) | String manipulation, slicing, formatting |
+| [Python 03](./module03) | Object-oriented programming |
+| [Python 04](./module04) | Decorators, generators, iterators |
+| [Python 05](./module05) | Exception handling, file I/O |
+| [Python 06](./module06) | Type annotations, functional programming |
+| [Python 07](./module07) | Advanced Python — NumPy / Pandas / data processing |
 
 ---
 
