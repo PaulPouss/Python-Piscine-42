@@ -62,7 +62,7 @@ def create_valid_alien() -> AlienContact:
         signal_strength=8.5,
         duration_minutes=45,
         witness_count=5,
-        message_received="Greetings from juskola-",
+        message_received="Greetings from ppousser",
     )
 
 
@@ -76,7 +76,7 @@ def create_invalid_alien() -> AlienContact:
         signal_strength=8.5,
         duration_minutes=45,
         witness_count=2,
-        message_received="Greetings from juskola-",
+        message_received="Greetings from ppousser",
     )
 
 
